@@ -1,5 +1,12 @@
 # Hacknight at the HuB
 
+## Introduction
+- Welcome
+- Building access
+- Internet and project repo overview
+- Individuals and teams
+- Git setup / begin
+
 ## Agenda
 - 6:30pm - 7:00pm: Dinner and team organization
 - 7:00pm - 12:00am: 5 hours of hack time
