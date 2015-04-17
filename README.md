@@ -7,8 +7,12 @@
 
 ## Rules
 - No prior written code
+- No theme
 - Nothing offensive
 - All submissions must be uploaded to github with a non-proprietary license (check out MIT & GPL)
 
 ## Prizes
 Sorry, there will be no judging.  Just make sure to have fun! 
+
+## Hacknight project URLS:
+
