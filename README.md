@@ -22,4 +22,7 @@
 Sorry, there will be no judging.  Just make sure to have fun! 
 
 ## Hacknight project URLS:
-
+- <a href="https://github.com/srqsoftware/04-17-2015_Attendance-Tracker" target="_blank">https://github.com/srqsoftware/04-17-2015_Attendance-Tracker</a>
+- <a href="https://github.com/srqsoftware/04-17-2015_Do-Your-Homework" target="_blank">https://github.com/srqsoftware/04-17-2015_Do-Your-Homework</a>
+- <a href="https://github.com/srqsoftware/04-17-2015_Eric" target="_blank">https://github.com/srqsoftware/04-17-2015_Eric</a>
+- <a href="https://github.com/srqsoftware/04-17-2015_FaceForward" target="_blank">https://github.com/srqsoftware/04-17-2015_FaceForward</a>
